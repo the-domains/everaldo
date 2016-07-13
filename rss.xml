@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[everaldo]]></title>
         <description><![CDATA[everaldo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/everaldo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 23:38:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 23:40:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/everaldo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>First test "again".</p>]]></description>
-            <link>undefinedfirst-test-again/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/231a3532-e14c-4780-9866-381f602758ab.jpg">]]></description>
+            <link>https://thegrid.ai/everaldo/first-test-again/index.html</link>
             <guid isPermaLink="false">2d202a5c-085b-45fa-8cf7-f092a8ee3e38</guid>
-            <pubDate>Wed, 13 Jul 2016 23:37:59 GMT</pubDate>
+            <pubDate>Wed, 13 Jul 2016 23:38:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
